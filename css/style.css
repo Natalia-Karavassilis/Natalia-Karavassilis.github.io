@@ -1,0 +1,15 @@
+.nat-purple {
+	color:#e0a8ff;
+}
+
+.nat-purple:hover {
+	color:#00f6ff;
+}
+
+.nat-font {
+	font-family:'Krub', sans-serif;;
+}
+
+.nat-border { 
+	border-color: #e0a8ff 
+}
