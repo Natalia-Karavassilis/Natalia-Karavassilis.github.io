@@ -13,3 +13,14 @@
 .nat-border { 
 	border-color: #e0a8ff 
 }
+.nat-navbar {
+	background-color: #e0a8ff
+	 }
+
+.nat-black {
+	color: black;
+}
+
+.nat-black:hover {
+	color:purple;
+}
